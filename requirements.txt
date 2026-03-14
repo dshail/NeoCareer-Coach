@@ -1,0 +1,13 @@
+streamlit 
+langchain-openai 
+langchain-groq 
+langchain-google-genai 
+langchain-core
+langchain-community
+faiss-cpu
+pypdf
+python-docx
+requests
+python-dotenv
+langchain
+langchain-text-splitters
